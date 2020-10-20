@@ -1,0 +1,8 @@
+.*
+!.gitkeep
+
+/build
+/out
+/logs
+
+!.gitignore
